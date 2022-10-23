@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="android/app/build/generated/rncli/src/main/java"/>
+	<classpathentry kind="src" path="android/app/build/generated/source/buildConfig/debug"/>
+	<classpathentry kind="src" path="android/app/build/generated/source/buildConfig/release"/>
+	<classpathentry kind="src" path="android/app/src/debug/java"/>
+	<classpathentry kind="src" path="android/app/src/main/java"/>
+	<classpathentry kind="lib" path="android/app/build/intermediates/compile_and_runtime_not_namespaced_r_class_jar/debug/R.jar"/>
+	<classpathentry kind="lib" path="android/app/build/intermediates/compressed_assets/debug/out/assets/fonts/AntDesign.ttf.jar"/>
+	<classpathentry kind="lib" path="android/app/build/intermediates/compressed_assets/debug/out/assets/fonts/Entypo.ttf.jar"/>
+	<classpathentry kind="lib" path="android/app/build/intermediates/compressed_assets/debug/out/assets/fonts/EvilIcons.ttf.jar"/>
+	<classpathentry kind="lib" path="android/app/build/intermediates/compressed_assets/debug/out/assets/fonts/Feather.ttf.jar"/>
+	<classpathentry kind="lib" path="android/app/build/intermediates/compressed_assets/debug/out/assets/fonts/FontAwesome.ttf.jar"/>
+	<classpathentry kind="lib" path="android/app/build/intermediates/compressed_assets/debug/out/assets/fonts/FontAwesome5_Brands.ttf.jar"/>
+	<classpathentry kind="lib" path="android/app/build/intermediates/compressed_assets/debug/out/assets/fonts/FontAwesome5_Regular.ttf.jar"/>
+	<classpathentry kind="lib" path="android/app/build/intermediates/compressed_assets/debug/out/assets/fonts/FontAwesome5_Solid.ttf.jar"/>
+	<classpathentry kind="lib" path="android/app/build/intermediates/compressed_assets/debug/out/assets/fonts/Fontisto.ttf.jar"/>
+	<classpathentry kind="lib" path="android/app/build/intermediates/compressed_assets/debug/out/assets/fonts/Foundation.ttf.jar"/>
+	<classpathentry kind="lib" path="android/app/build/intermediates/compressed_assets/debug/out/assets/fonts/Ionicons.ttf.jar"/>
+	<classpathentry kind="lib" path="android/app/build/intermediates/compressed_assets/debug/out/assets/fonts/MaterialCommunityIcons.ttf.jar"/>
+	<classpathentry kind="lib" path="android/app/build/intermediates/compressed_assets/debug/out/assets/fonts/MaterialIcons.ttf.jar"/>
+	<classpathentry kind="lib" path="android/app/build/intermediates/compressed_assets/debug/out/assets/fonts/Octicons.ttf.jar"/>
+	<classpathentry kind="lib" path="android/app/build/intermediates/compressed_assets/debug/out/assets/fonts/SimpleLineIcons.ttf.jar"/>
+	<classpathentry kind="lib" path="android/app/build/intermediates/compressed_assets/debug/out/assets/fonts/Zocial.ttf.jar"/>
+	<classpathentry kind="lib" path="android/app/build/intermediates/compressed_assets/debug/out/assets/index.android.bundle.jar"/>
+	<classpathentry kind="lib" path="android/app/build/intermediates/merged_java_res/debug/base.jar"/>
+	<classpathentry kind="lib" path="android/app/build/intermediates/project_dex_archive/debug/out/f04a47190a6c1186a3eaa5f8b93a0634daa7742cedc0c72cc821e4c98d6d3899_0.jar"/>
+	<classpathentry kind="lib" path="android/app/build/intermediates/project_dex_archive/debug/out/f04a47190a6c1186a3eaa5f8b93a0634daa7742cedc0c72cc821e4c98d6d3899_1.jar"/>
+	<classpathentry kind="lib" path="android/gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="output" path="android/app/build/intermediates/javac/debug/classes"/>
+</classpath>
